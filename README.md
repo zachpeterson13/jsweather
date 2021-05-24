@@ -1,3 +1,3 @@
 # jsweather
-A weather widget thingy I made. <br>
+I made this for my JavaScript Class. I needed to show the skills I learned during the semester as well as use some kind of api. I chose a openweathermap because I had a little experience with it and thought it would be fun to try and create a cool weather widget thing. The thing I like the most about this is that the background changes based on whether it is day or night. It is not perfect and I think I could improve on this a lot, but I think I am going to try and implement this into a iOS app and improve on it there. <br><br>
 [Check it out here](https://zachtpeterson.com/task6.html)
